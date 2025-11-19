@@ -1,0 +1,1 @@
+console.log('Upgraded site loaded');

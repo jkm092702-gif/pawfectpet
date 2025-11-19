@@ -1,0 +1,6 @@
+
+body { font-family: Arial; }
+.hero-section {
+  height: 50vh;
+  background: url('images/hero.jpg') center/cover no-repeat;
+}
